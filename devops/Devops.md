@@ -23,7 +23,7 @@ enterprise github.  The commit in the branch triggers a Azure Pipeline
 job which builds on the Azure build agent and deploys code to the Azure
 Databricks using APIs.
 
-![](./image1.png){width="4.875in" height="1.6458333333333333in"}
+![](./image1.png)
 
 #### Reference: [[Azure Pipeline]{.underline}](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-get-started?view=azure-devops)
 
